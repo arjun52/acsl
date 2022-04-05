@@ -1,0 +1,3 @@
+you were either given a encode or decode key which would set two paths for your code. in short it would either convert a encrypted message that was
+in numbers corresponding to ascii conversions into letters. the other path would be the opposite. there would also be a parameter that shifted the 
+corresponding letters and numbers. 
