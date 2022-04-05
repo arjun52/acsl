@@ -1,5 +1,0 @@
-# acsl
-acsl coding problems
-#the instructions were to take in a fibnumber int as a parameter and get a corresponding diagonal from the pascals triangle. 
-#after u get that diagonal u get all the diagonals for the fibnumbers less than the starting one. 
-#once u get all these diagonals u wanna get the number of numbers in the total list that only appear once. 
