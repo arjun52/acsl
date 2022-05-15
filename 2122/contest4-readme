@@ -1,0 +1,6 @@
+# five parameters, first two give you an imaginary number, third and fourth give you another imaginary number, and fifth paramater is an increment
+# use the imaginary numbers and increment to create a rectangle in the imaginary coordinate plane, where "a+bi+ has a as the x axis and b as the y axis
+# the given imaginary numbers show the lower left and upper right corners. use the increment to create the border and the points within the rectangle. 
+# with these points, you want to input them into an equation and keep recurring it until either the absolute value of the result is greater than 4 or if it
+# repeats a value. if the absolute value thing happens it escapes. if the repeating thing happens its a cycle. for every point that results in a cycle, if the 
+# cycle length is equal to a fibonaccci number less than 500, add 1 to a variable. return the variable
